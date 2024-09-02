@@ -25,3 +25,6 @@ The repository is organized into five scripts, each representing a distinct step
 #### 5. Final Model and Visualization (`05_final_model_and_visualization.R`)
 - **Purpose:** This script runs the final calibrated model and generates visualizations comparing the simulated soil respiration against observed data. It also provides scatter plots to visualize the correlation between observed and simulated values.
 - **Outputs:** Final visualizations and comparison plots.
+
+### Additional Information
+The `output` folder contains a PowerPoint presentation summarizing the project’s findings, including key results, visualizations, and interpretations.
